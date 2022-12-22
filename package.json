@@ -1,0 +1,14 @@
+{
+  "name": "spl-creator",
+  "version": "0.0.1",
+  "description": "Solana Program Library Token Creator",
+  "main": "index.js",
+  "repository": "https://github.com/adamdelsol/spl-creator.git",
+  "author": "adamdelsol",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.17.12",
+    "@solana/web3.js": "^1.70.3"
+  }
+}
