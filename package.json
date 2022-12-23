@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Solana Program Library Token Creator",
   "main": "index.js",
+  "type": "module",
   "repository": "https://github.com/adamdelsol/spl-creator.git",
   "author": "adamdelsol",
   "license": "MIT",
